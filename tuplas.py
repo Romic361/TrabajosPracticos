@@ -7,3 +7,4 @@ Humma= ("perra", "marroncito", "murcielago", 11, 2013, 10.4 )
 
 tuplas=[Nala, Daysi, Humma]
 
+print(tuplas)
