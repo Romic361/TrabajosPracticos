@@ -213,7 +213,7 @@ class CUENTA_USUARIO:
         self.email = Email
         self.clave = Clave
         self.reconfirmarClave = ReconfirmarClave
- # FALTA VALIDAR EL EMAIL#
+ 
         
         def getNombre(self):
             return self.Nombre
@@ -359,7 +359,3 @@ class DATOS_BASICOS:
             self.DNI = NDNI
 
 
-#FALTA CONFIRMAR COMPRA #
-#REGISTRAR FECHA DE COMPRA
-#USUARIO QUE LA REALIZA
-#MONTO TOTAL
